@@ -1,4 +1,4 @@
-# **Subscription-Loyalty-Risk-Radar**
+# **Subscription Loyalty Risk Radar**
 
 <p align="center">
 
